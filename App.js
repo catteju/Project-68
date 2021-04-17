@@ -33,6 +33,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     color : 'blue',
-    fontWeight : 'bold'
+    fontWeight : 'bold',
+    marginTop : 100
   },
 })
